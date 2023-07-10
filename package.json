@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.mjs",
-    "arg": "node index.mjs --greeting Hola --who Gapstars --width 600 --height 700 --color White, --size 200",
+    "arg": "node index.mjs --greeting Hola --who Gapstars --width 600 --height 700 --color White --size 200",
     "test": "'test command echo'"
   },
   "author": "Nimesh Fonseka",
