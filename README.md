@@ -1,5 +1,5 @@
 # Cat Card
-Cat Card Application - Image Processing Application
+Cat Card - Image Processing Application
 
 ## Package
 Package - npm `(v8.15.0)` / node `(v16.17.0)`
