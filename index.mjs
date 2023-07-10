@@ -4,8 +4,7 @@ import imageProcessor from './imageProcessor.mjs';
 import logger from './utils/logger.mjs';
 
 const argv = minimist(process.argv.slice(2))
-let { greeting = 'Hello', who = 'You', width = 400, height = 500, color = 'Pink', size = 100 } = argv;
-// let { greeting, who, width, height, color, size } = argv;
+let { greeting, who, width, height, color, size } = argv;
 let imageBuffers = [];
 
 const initiateProcess = async () => {
