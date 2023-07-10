@@ -20,7 +20,7 @@ Package - npm `(v8.15.0)` / node `(v16.17.0)`
 ## Usage
 - run `npm run dev` to execute the program
 
-if you want to change the properties of the image, you can give a cmmandline arguments as follows (try changing variables to get different results),
+if you want to change the properties of the image, you can give cmmandline arguments as follows (try changing variables to get different results),
 - `node index.mjs --greeting Hola --who Gapstars --width 400 --height 500 --color White, --size 100` 
 
 ## Requirement
