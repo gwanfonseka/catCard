@@ -16,6 +16,7 @@ Package - npm `(v8.15.0)` / node `(v16.17.0)`
 ## Installation
 - Clone this project
 - run `npm install` to install the dependancies
+- create `.env` file in root directory and include `BASE_PATH="https://cataas.com/cat/says/"`
 
 ## Usage
 - run `npm run dev` to execute the program
